@@ -1,0 +1,22 @@
+# Entornos virtuales y caché de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Archivos de YOLO y modelos entrenados
+runs/
+Resultados_Entrenamiento/
+
+# Datasets (No subir las imágenes ni etiquetas a GitHub)
+images/
+labels/
+train/
+valid/
+test/
+
+# Archivos de configuración de VS Code
+.vscode/
+# Variables de entorno y configuraciones locales
+.env

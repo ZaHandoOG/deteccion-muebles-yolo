@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 22
+names: ['Cuna', 'Guarda ropa', 'Lampara', 'Litera', 'Taburete', 'aparador', 'armario', 'banca', 'cajones', 'cama', 'cuadro', 'escalones', 'escritorio', 'espejo', 'estante', 'mesa', 'muebles', 'repisa', 'silla', 'sillon', 'toalla', 'velador']
